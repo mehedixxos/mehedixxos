@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi hasan ifty</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>mehedi0213@gsuitebd.com
 <p align="left">
 </p>
 
